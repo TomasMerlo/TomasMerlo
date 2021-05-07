@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomasMerlo
 - 👀 I’m interested in front end
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any proyects
 - 📫 How to reach me via email : tomasmerlo12@gmail.com
 
